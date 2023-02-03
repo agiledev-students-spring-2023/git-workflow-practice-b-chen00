@@ -8,3 +8,6 @@ With the recent popularity of ChatGPT and AI in general, I think it is important
 
 I think rather AI will instead enhance or streamline the work done by software engineers. AI will definitely be able to create a whole application in the future but there will be a need to talor or customize that application even further. AI will serve to produce the prototype or foundations of an application which will emphasize the need to plan, maintain, and update. Overall, I think in the future software engineers will have to improve upon and customize existing sites rather than build sites from scratch. In fact, most software engineering work are contributions to a working code base already so there might not even be much of a difference at all.
 <div style="text-align: right">-Brandon</div>
+
+![image](https://imageio.forbes.com/specials-images/imageserve/628b8de7a18d8436b8782e88/Artificial-intelligence-robot-control-futuristic-data-screen/960x0.jpg?format=jpg&width=960)
+* [Yewon Song](https://github.com/agiledev-students-spring-2023/git-workflow-practice-sywu430.git) made the change above.

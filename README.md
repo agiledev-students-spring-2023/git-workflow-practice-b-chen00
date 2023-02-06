@@ -12,3 +12,5 @@ I think rather AI will instead enhance or streamline the work done by software e
 ![image](https://imageio.forbes.com/specials-images/imageserve/628b8de7a18d8436b8782e88/Artificial-intelligence-robot-control-futuristic-data-screen/960x0.jpg?format=jpg&width=960)
 * [Yewon Song](https://github.com/agiledev-students-spring-2023/git-workflow-practice-sywu430.git) made the change above.
 
+## Comment (Jiahong Jiang jj3005)
+Ai is definitely more efficient and accessible than human web designers, but unlike human designers, it's hard for AI to fully understand the exact requirements of clients, and the adjustment of AI generated contents are not easy for clients to adjust by themselves, which make the existence of human designers indispensible. However, I agree that AI would take over most of the basic works of web design, and leave the complex, thought-needed contents for human designers.
